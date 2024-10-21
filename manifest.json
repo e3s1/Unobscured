@@ -1,0 +1,10 @@
+{
+    "name": "Unobscured",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/e3s1/Unobscured",
+    "description": "Hide MoreCompany cosmetics while using a first-person spectate mod",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.10.1"
+    ]
+}

@@ -1,0 +1,2 @@
+# Unobscured
+Hide MoreCompany cosmetics while using a first-person spectate mod ([FPSSpectate](https://thunderstore.io/c/lethal-company/p/DeathWrench/FPSSpectate/), [BetterSpectate](https://thunderstore.io/c/lethal-company/p/Fusition/BetterSpectate/), etc.)
