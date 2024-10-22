@@ -1,6 +1,6 @@
 {
     "name": "Unobscured",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/e3s1/Unobscured",
     "description": "Hide MoreCompany cosmetics while using a first-person spectate mod",
     "dependencies": [

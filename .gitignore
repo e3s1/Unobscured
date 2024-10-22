@@ -363,3 +363,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/e3s1-Unobscured-1.0.0.zip
+*.zip
